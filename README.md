@@ -1,4 +1,4 @@
-# stock-market-kafka
+# Stock-Market-Kafka
 
 ## Introduction 
 We are going to use different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
