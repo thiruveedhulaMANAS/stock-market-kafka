@@ -19,6 +19,6 @@ We are going to use different technologies such as Python, Amazon Web Services (
 
 ## Dataset Used
 
-Here is the dataset used in this project - [Architecture](https://github.com/thiruveedhulaMANAS/stock-market-kafka/assets/88129091/b3bccf5e-66f2-4a17-8c9f-70b7276099a0)
+Here is the dataset used in this project - indexProcessed.csv
 
 
