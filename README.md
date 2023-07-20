@@ -19,6 +19,6 @@ We are going to use different technologies such as Python, Amazon Web Services (
 
 ## Dataset Used
 
-Here is the dataset used in this project - indexProcessed.csv
+Here is the dataset used in this project - **indexProcessed.csv**
 
 
